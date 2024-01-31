@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Java Development
 - 🌱 I’m currently learning Core Java
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me ..... sd12032003@gmail.com
+- 📫 How to reach me .....
 
 <!---
 soumabhadey/soumabhadey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
