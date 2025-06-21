@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumabhadey
 - 👀 I’m interested in Full Stack Java Development
-- 🌱 I’m currently learning JDBC
+- 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me - soumabhadey76@gmail.com
 
